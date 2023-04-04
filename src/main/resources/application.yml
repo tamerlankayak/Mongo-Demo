@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      username: tamerlan
+      password: tamerlan
+      host: localhost
+      port: 27017
+      database: tamerlancoding
+      authentication-database: admin
