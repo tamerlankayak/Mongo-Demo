@@ -16,7 +16,7 @@ public class MongoDemoApplication {
         SpringApplication.run(MongoDemoApplication.class, args);
     }
 
-
+//uncomment this Bean when starting app first time
     //@Bean
     public CommandLineRunner commandLineRunner(ProductRepository productRepository,
                                                CategoryRepository categoryRepository) {
