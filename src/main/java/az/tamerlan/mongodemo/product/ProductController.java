@@ -5,7 +5,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-
+//here is calling simple crud methods of mongo service
 @RestController
 @RequestMapping("/api/v1/products")
 @RequiredArgsConstructor
