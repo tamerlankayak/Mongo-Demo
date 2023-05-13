@@ -1,3 +1,4 @@
+#declaring of mongo db connections
 spring:
   data:
     mongodb:
